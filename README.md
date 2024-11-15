@@ -17,5 +17,3 @@ Here, I showcase my projects in Python, Power BI, Power Apps, and SQL. Feel free
 - SQL
 - Power BI & Platform
 - C#
-
-[Go Back to Main GitHub Page](https://github.com/ivantravisany)
