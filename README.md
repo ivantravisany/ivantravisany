@@ -15,3 +15,7 @@ Anyhow, here I will be showcasing my projects in Python, Power BI, Power Apps, a
 - [Data Cleaning Test](Python/Test) - A simple project to test how git works with ipynb files.
 
 ## ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) [SQL Projects](SQL/)
+- *Soon!*
+
+## ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [Power Platform Projects](Power%20Platform/)
+- *Soon!*
